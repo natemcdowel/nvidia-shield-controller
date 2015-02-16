@@ -1,0 +1,8 @@
+c:\users\nmcdowell\documents\visual studio 2013\Projects\Nvidia Shield Controller\Nvidia Shield Controller\bin\Debug\Nvidia Shield Controller.exe.config
+c:\users\nmcdowell\documents\visual studio 2013\Projects\Nvidia Shield Controller\Nvidia Shield Controller\bin\Debug\Nvidia Shield Controller.exe
+c:\users\nmcdowell\documents\visual studio 2013\Projects\Nvidia Shield Controller\Nvidia Shield Controller\bin\Debug\Nvidia Shield Controller.pdb
+c:\users\nmcdowell\documents\visual studio 2013\Projects\Nvidia Shield Controller\Nvidia Shield Controller\obj\Debug\Nvidia Shield Controller.csprojResolveAssemblyReference.cache
+c:\users\nmcdowell\documents\visual studio 2013\Projects\Nvidia Shield Controller\Nvidia Shield Controller\obj\Debug\Nvidia_Shield_Controller.Properties.Resources.resources
+c:\users\nmcdowell\documents\visual studio 2013\Projects\Nvidia Shield Controller\Nvidia Shield Controller\obj\Debug\Nvidia Shield Controller.csproj.GenerateResource.Cache
+c:\users\nmcdowell\documents\visual studio 2013\Projects\Nvidia Shield Controller\Nvidia Shield Controller\obj\Debug\Nvidia Shield Controller.exe
+c:\users\nmcdowell\documents\visual studio 2013\Projects\Nvidia Shield Controller\Nvidia Shield Controller\obj\Debug\Nvidia Shield Controller.pdb
